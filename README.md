@@ -2,10 +2,6 @@
 <h3 align="center">A enthusiastic frontend web developer & WordPress developer.</h3>
 <img align="right" alt="Coding" width="400" src="gif.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maqeel019&label=Profile%20views&color=0e75b6&style=flat" alt="maqeel019" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maqeel019" alt="maqeel019" /></a> </p>
-
 - 🌱 I’m currently learning **React js**
 
 - 👨💻 All of my projects are available at [Https://aqeel019.epizy.com/](Https://aqeel019.epizy.com/)
