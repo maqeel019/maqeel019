@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/aqeel khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aqeel khan" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/muhammad-aqeel-249a96257/" target="blank"><img align="center" src="https://github.com/maqeel019/Practice/blob/Master/linkedin.png" alt="Aqeelkhan" height="30" width="40" /></a>
+<a href="https://fb.com/aqeel khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aqeelkhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
