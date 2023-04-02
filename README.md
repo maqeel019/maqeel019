@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm M.Aqeel</h1>
-<h3 align="center">A enthusiastic frontend web developer & WordPress developer.</h3>
+<h3 align="center">A enthusiastic ReactJS developer & WordPress developer.</h3>
 <img align="right" alt="Coding" width="400" src="gif.gif" >
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently Working in **React js**
 
 - 👨💻 All of my projects are available at [Https://aqeel019.epizy.com/](Https://aqeel019.epizy.com/)
 
-- 💬 Ask me about **Html5, css3, JavaScript, bootstrap**
+- 💬 Ask me about **ReactJS, Html5, css3, JavaScript(ES6), bootstrap, Git, WordPress**
 
 - 📫 How to reach me **maqeelcs09@gmail.com**
 
-- 📄 Know about my experiences [College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website](College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website)
+- 📄 Know about my experiences [NoteApp in Reactjs College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website](College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website)
 
 - ⚡ Fun fact **I know how to solve & Google.**
 
