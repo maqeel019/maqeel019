@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **maqeelcs09@gmail.com**
 
-- 📄 Know about my experiences [NoteApp , BasicReactProjects , PortFolio (Reactjs), College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website , different Wordpress website](College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website)
+- 📄 Know about my experiences [NoteApp , BasicReactProjects , PortFolio (Reactjs), College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website , different Wordpress website]
 
 - ⚡ Fun fact **I know how to solve & Google.**
 
