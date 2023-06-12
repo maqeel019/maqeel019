@@ -4,13 +4,11 @@
 
 - 🌱 I’m currently Working in **React js**
 
-- 👨💻 All of my projects are available at [Https://aqeel019.epizy.com/](Https://aqeel019.epizy.com/)
-
 - 💬 Ask me about **ReactJS, Html5, css3, JavaScript(ES6), bootstrap, Git, WordPress**
 
 - 📫 How to reach me **maqeelcs09@gmail.com**
 
-- 📄 Know about my experiences [NoteApp in Reactjs College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website](College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website)
+- 📄 Know about my experiences [NoteApp , BasicReactProjects , PortFolio (Reactjs), College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website , different Wordpress website](College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website)
 
 - ⚡ Fun fact **I know how to solve & Google.**
 
