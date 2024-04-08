@@ -1,12 +1,47 @@
 <h1 align="center">Hi 👋, I'm M.Aqeel</h1>
-<h3 align="center">A enthusiastic ReactJS developer & WordPress developer.</h3>
+<h3 align="center">A enthusiastic and passionate **Data Engineer**.</h3>
 <img align="right" alt="Coding" width="400" src="gif.gif" >
 
-- 🌱 I’m currently Working in **React js**
+- 💻 A lot of fields spark my interest such as **Data Science, Data Engineering,Web Development, Product Management**
 
-- 💬 Ask me about **ReactJS, Html5, css3, JavaScript(ES6), bootstrap, Git, WordPress**
+- 💪🏽 Skilled in the following technical skills:
+*Programming Language:** Python (pandas, numpy, matplotlib, seaborn, beautifulsoup, requests,Power BI) & JavaScript(Reactjs)
+**RDBMS & Database:** Oracle Database & Microsoft SQL Server.
+* **Other:** Git, Google Sheets, Microsoft Excel,
 
+- 📊 Passionate about all things **Data Analytics, Data Science, Data Engineering**
+  
 - 📫 How to reach me **maqeelcs09@gmail.com**
+
+- 💬 **Ask me about anything**, I am happy to help
+
+  <a>
+    <img width="55%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
+
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
 
 - 📄 Know about my experiences [NoteApp , BasicReactProjects , PortFolio (Reactjs), College Website & Blog website (html, css, JavaScript) Bootstrap portfolio website & Blog website , different Wordpress website]
 
