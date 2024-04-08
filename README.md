@@ -5,9 +5,9 @@
 - 💻 A lot of fields spark my interest such as **Data Science, Data Engineering,Web Development, Product Management**
 
 - 💪🏽 Skilled in the following technical skills:
-*Programming Language:** Python (pandas, numpy, matplotlib, seaborn, beautifulsoup, requests,Power BI) & JavaScript(Reactjs)
+**Programming Language:** Python (pandas, numpy, matplotlib, seaborn, beautifulsoup, requests,Power BI) & JavaScript(Reactjs)
 **RDBMS & Database:** Oracle Database & Microsoft SQL Server.
-* **Other:** Git, Google Sheets, Microsoft Excel,
+**Other:** Git, Google Sheets, Microsoft Excel,
 
 - 📊 Passionate about all things **Data Analytics, Data Science, Data Engineering**
   
