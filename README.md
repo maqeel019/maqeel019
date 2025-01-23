@@ -14,11 +14,7 @@
   - **Version Control**: Git, GitHub.
   - **Frameworks & Tools**: Streamlit, WordPress, Jupyter Notebook, VS Code.
   - **Additional Skills**: Time Management, Effective Googling for Technical Solutions, Team Collaboration & Communication.
-
-- 🎓 **Academic Achievements**:
-  - Ranked **4th in my batch** during Bachelor of Computer Science at the University of Swabi.
-  - Awarded the **PM's National Laptop Scheme (2023)** for academic excellence.
-
+  
 - 📫 How to reach me: **maqeelcs09@gmail.com**.
 
 - 💬 Feel free to **ask me anything**—I’m always happy to help!
