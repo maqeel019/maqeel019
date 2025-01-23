@@ -37,7 +37,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a>
-  <img width="55%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqeel019&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img width="50%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqeel019&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </a>
 <!-- Languages and Tools -->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
