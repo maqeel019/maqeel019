@@ -70,17 +70,24 @@
 <code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/streamlit.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<br />
 <code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg"></code>
+
+<br />
 <code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/matplotlib.svg"></code>
 <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"></code>
 <code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
