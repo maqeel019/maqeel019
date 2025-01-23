@@ -49,7 +49,9 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" /> </code>
+<code><img width="10%" src="https://i.namu.wiki/i/Z9CsG-p1icE1zwnsZMmRIom1hU3VLu5rmhr_wYGf6ZFgTOJiOrTiwo4lR_zOdiGgnrkG3xL3SOQj5OeVSLQpQW1I57BLTQ9ocznQwfZPw3eeEevhTeUDIEZDZdcn6wGftFLqjxZIS-qPfIHWC-WhLA.webp"></code>
+
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" /> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 
 <br />
