@@ -41,20 +41,18 @@
 </a>
 <!-- Languages and Tools -->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydkDqN69lhfTs2Afn62fr_r6i6xfeaq5sWw&s"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <br />
 <a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img width="10%"  src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" /></a>
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="Microsoft Excel"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="10%" src="https://i.namu.wiki/i/Z9CsG-p1icE1zwnsZMmRIom1hU3VLu5rmhr_wYGf6ZFgTOJiOrTiwo4lR_zOdiGgnrkG3xL3SOQj5OeVSLQpQW1I57BLTQ9ocznQwfZPw3eeEevhTeUDIEZDZdcn6wGftFLqjxZIS-qPfIHWC-WhLA.webp"></code>
-
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" /> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-
 <br />
+<code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
@@ -62,7 +60,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -70,7 +67,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <br />
-
 <h3 align="left">Certifications:</h3>
 <p align="left">
   - Python for Data Science, AI & Development – Coursera<br />
