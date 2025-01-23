@@ -49,9 +49,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<a href="https://worldvectorlogo.com/logo/pandas" target="_blank">
-  <img width="10%" src="https://worldvectorlogo.com/download/pandas-1.svg" alt="Pandas" />
-</a>
+<code><img width="10%" src="https://worldvectorlogo.com/logo/pandas" alt="Pandas" /> </code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 
 <br />
