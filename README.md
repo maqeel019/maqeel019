@@ -62,7 +62,15 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-
+<a href="https://seekvectorlogo.com/pandas-vector-logo-svg/" target="_blank">
+  <img width="10%" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/pandas-vector-logo.png" alt="Pandas" />
+</a>
+<a href="https://seekvectorlogo.com/matplotlib-vector-logo-svg/" target="_blank">
+  <img width="10%" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/matplotlib-vector-logo.png" alt="Matplotlib" />
+</a>
+<a href="https://seekvectorlogo.com/streamlit-vector-logo-svg/" target="_blank">
+  <img width="10%" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/streamlit-vector-logo.png" alt="Streamlit" />
+</a>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
