@@ -75,7 +75,7 @@
 <br />
 <code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/matplotlib.svg"></code>
 <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"></code>
-<code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="Microsoft Excel"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 
 <br />
@@ -83,7 +83,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
 <br />
