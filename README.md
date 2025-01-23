@@ -47,6 +47,12 @@
 </a>
 
 <!-- Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
+<a>
+  <img width="55%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqeel019&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</a>
+
+<!-- Languages and Tools -->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
@@ -62,20 +68,20 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/seaborn/seaborn-ar21.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/adminer/adminer-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg"></code>
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <h3 align="left">Certifications:</h3>
 <p align="left">
   - Python for Data Science, AI & Development – Coursera<br />
@@ -84,8 +90,6 @@
   - Introduction to Software Project Management – Coursera<br />
   - Meta Front-End Development Specialization – Coursera<br />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maqeel019&" alt="maqeel019" /></p>
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/maqeel019/maqeel019.svg" />
