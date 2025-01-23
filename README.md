@@ -63,15 +63,14 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/streamlitio/streamlitio-ar21.svg"></code>
+<code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/streamlit.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/seaborn/seaborn-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg"></code>
+<code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg"></code>
+<code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/matplotlib.svg"></code>
+<code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/seaborn.svg"></code>
+<code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg"></code>
