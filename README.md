@@ -59,6 +59,8 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -66,10 +68,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+
 <h3 align="left">Certifications:</h3>
 <p align="left">
   - Python for Data Science, AI & Development – Coursera<br />
