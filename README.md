@@ -42,7 +42,7 @@
 <!-- Languages and Tools -->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+<a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" /></a>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -50,16 +50,9 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <br />
-
-<code><img width="10%" src="https://froglabs.ai/media/mysvg.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg"></code>
-
-<br />
-<code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/matplotlib.svg"></code>
-<code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"></code>
-
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="Microsoft Excel"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 
